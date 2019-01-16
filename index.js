@@ -68,7 +68,7 @@ window.onload = function() {
 
 		showClockTimer = setTimeout(function() {
 			showClock();
-		}, 3000);
+		}, 30000);
 	}
 
 	const time = document.getElementById('time');
