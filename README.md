@@ -6,8 +6,8 @@ Note that originally I wasn't planning to publish this, so code quality isn't th
 
 ## Screenshots
 ##### (wallpapers from gnome-backgrounds)
-![Screenshot 1](https://github.com/lassipulkkinen/lightdm-webkit2-theme/blob/master/screenshots/screenshot1.png?raw=true)
-![Screenshot 2](https://github.com/lassipulkkinen/lightdm-webkit2-theme/blob/master/screenshots/screenshot2.png?raw=true)
-![Screenshot 3](https://github.com/lassipulkkinen/lightdm-webkit2-theme/blob/master/screenshots/screenshot3.png?raw=true)
-![Screenshot 4](https://github.com/lassipulkkinen/lightdm-webkit2-theme/blob/master/screenshots/screenshot4.png?raw=true)
-![Screenshot 5](https://github.com/lassipulkkinen/lightdm-webkit2-theme/blob/master/screenshots/screenshot5.png?raw=true)
+![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 3](screenshots/screenshot3.png)
+![Screenshot 4](screenshots/screenshot4.png)
+![Screenshot 5](screenshots/screenshot5.png)
